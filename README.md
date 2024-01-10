@@ -1,7 +1,7 @@
 Prime Sieve Hashing: Efficient Prime Number Generation and Hashing in Java
 Overview
 
-PrimeSieveHash is a Java project that combines the efficiency of the Sieve of Eratosthenes algorithm with advanced hashing techniques. 
+Prime Sieve Hashing is a Java project that combines the efficiency of the Sieve of Eratosthenes algorithm with advanced hashing techniques. 
 This project aims to generate prime numbers efficiently and utilizes them in hashmaps to optimize collision handling, demonstrating a novel approach to combining classical algorithms with modern data structures.
 
 Key Features
